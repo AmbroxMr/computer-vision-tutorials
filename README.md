@@ -20,3 +20,11 @@ python -m jupyter notebook
 ```
 
 Then navigate to the desired notebook and start learning!
+
+
+> ⚠️ **Warning**  
+>
+> This work was carried out in **2020**, which means several dependencies rely on older versions.  
+> Some functions may now have newer or more efficient alternatives.  
+> However, since the goal of this material is to teach **fundamental theory**, the underlying mathematics **has not changed**.  
+> The explanations and concepts remain fully valid for learning computer vision.
